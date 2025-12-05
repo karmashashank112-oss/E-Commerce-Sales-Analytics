@@ -61,9 +61,3 @@ AOV = DIVIDE([Total Sales], [Total Orders])
 Customer Sales = SUM(E_COMMERCE[Total Amount])
 Customer Quantity = SUM(E_COMMERCE[Quantity])
 Customer Orders = COUNT(E_COMMERCE[OrderID])
-
-📬 Contact
-
-Shashank Karma
-Email: karmashashank112@gmail.com
-Phone: 7610750013
